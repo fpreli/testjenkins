@@ -1,8 +1,0 @@
-Test for Jenkins
-After installing git on the VM
-And changing the user
-And the branch
-
-and finally, just the PR
-
-Not there yet
